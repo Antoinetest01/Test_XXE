@@ -1,1 +1,16 @@
-<rss version="2.0"> </rss>
+<rss version="2.0">
+    <channel>
+        <title>Mon site</title>
+        <description>Ceci est un exemple de flux RSS 2.0</description>
+        <link>http://challenge01.root-me.org/web-serveur/ch29/</link>
+        <image>
+	<url> http://www.lhttp://challenge01.root-me.org/web-serveur/ch29/</url>
+	<link> http://challenge01.root-me.org/web-serveur/ch29/index.php
+	</image>
+	<item>
+	<title>XXE</title>
+	<linkhttp://challenge01.root-me.org/web-serveur/ch29/index.php</link>
+	<description>Tout savoir sur RSS</description>
+	</item>
+    </channel>
+</rss>
