@@ -4,8 +4,8 @@
         <description>Ceci est un exemple de flux RSS 2.0</description>
         <link>http://challenge01.root-me.org/web-serveur/ch29/</link>
         <image>
-	<url> http://www.lhttp://challenge01.root-me.org/web-serveur/ch29/</url>
-	<link> http://challenge01.root-me.org/web-serveur/ch29/index.php
+	<url>http://www.lhttp://challenge01.root-me.org/web-serveur/ch29/</url>
+	<link>http://challenge01.root-me.org/web-serveur/ch29/index.php</link>
 	</image>
 	<item>
 	<title>XXE</title>
